@@ -1,5 +1,6 @@
 package com.felipe.movieflix.repositories;
 
+import com.felipe.movieflix.dto.MovieCardDTO;
 import com.felipe.movieflix.dto.MovieDetailsDTO;
 import com.felipe.movieflix.entities.Movie;
 import org.springframework.data.domain.Page;
