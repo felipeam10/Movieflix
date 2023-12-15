@@ -1,5 +1,5 @@
 <div align="left">
-  <h1><strong>Validação e Segurança</strong></h1>
+  <h1><strong>Movieflix</strong></h1>
 </div>
 
 ## Índice
@@ -12,7 +12,7 @@
 
 ## Sobre
 
-Este é um sistema de listagem de filmes, seus gêneros e as reviews.
+Este é um sistema de listagem de filmes, seus gêneros e as reviews destes filmes.
 
 <div align="center">
   <img src="src/main/resources/modelo_conceitual.png" alt="Diagrama de Classes">
